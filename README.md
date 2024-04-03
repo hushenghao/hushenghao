@@ -9,10 +9,10 @@
 - ⚡ Fun fact: ...
 
 <a href="https://github.com/hushenghao/AndroidEasterEggs">
-  <img align="center" alt="AndroidEasterEggs" src="https://github-readme-stats.vercel.app/api/pin/?username=hushenghao&repo=AndroidEasterEggs&theme=graywhite"/>
+  <img align="top" alt="AndroidEasterEggs" src="https://github-readme-stats.vercel.app/api/pin/?username=hushenghao&repo=AndroidEasterEggs&theme=graywhite"/>
 </a>
 <a href="https://github.com/hushenghao/MediaStoreDemo">
-  <img align="center" alt="MediaStoreDemo" src="https://github-readme-stats.vercel.app/api/pin/?username=hushenghao&repo=MediaStoreDemo&theme=graywhite"/>
+  <img align="top" alt="MediaStoreDemo" src="https://github-readme-stats.vercel.app/api/pin/?username=hushenghao&repo=MediaStoreDemo&theme=graywhite"/>
 </a>
 
 #### Connect with me:
