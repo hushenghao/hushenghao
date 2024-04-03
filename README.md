@@ -1,6 +1,6 @@
-## 👋 Hello! I'm Hu Shenghao
+## 🎉 Hello, 👋 I'm Hu Shenghao !✨
 
-**👨‍💻 I am an Android developer!**
+**👨‍💻 I'm an Android developer! 🤖**
 
 - 🔭 I’m currently working on **Nanjing, China**
 - 🌱 I’m currently learning **Rust, HarmonyOS**
@@ -42,14 +42,12 @@
 </a>
 
 <!--
-#### Coding Activity
+### Coding Activity
 
 <img src='https://wakatime.com/share/@Shenghao/ae3990cd-400b-4602-8b4b-c4346bfc6383.svg' style='background-color:#fff' />
 -->
 
 <!--
-**hushenghao/hushenghao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
