@@ -16,8 +16,9 @@
 <code><img height="24" alt="gradle" src="https://raw.githubusercontent.com/github/explore/main/topics/gradle/gradle.png" /></code>
 <code><img height="24" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /></code>
 <code><img height="24" alt="flutter" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" /></code>
-<code><img height="24" alt="react-native" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" /></code>
+<code><img height="24" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" /></code>
 <code><img height="24" alt="typescript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" /></code>
+<code><img height="24" alt="react-native" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" /></code>
 <code><img height="24" alt="ruby" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png" /></code>
 
 ### 🔗 Connect with me:
