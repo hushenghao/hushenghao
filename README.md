@@ -1,24 +1,32 @@
 ### Hi there 👋
 
-**I am an Android developer!  👨‍💻**
+**I am an Android developer! 👨‍💻**
 
 - 🔭 I’m currently working on **Nanjing, China**
 - 🌱 I’m currently learning **Rust**
 - 📫 How to reach me: **[e-mail](mailto:dede.hu@qq.com)**
+- 😄 Pronouns: **dede**
 - ⚡ Fun fact: ...
 
-| Projects | Description |
-|---|---|
-| [AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs) | Organize the Easter eggs of the official versions of the Android system |
-| [NativeTools](https://github.com/hushenghao/NativeTools) | An app that displays the current network speed in the system status bar |
+<a href="https://github.com/hushenghao/AndroidEasterEggs">
+  <img align="center" alt="AndroidEasterEggs" src="https://github-readme-stats.vercel.app/api/pin/?username=hushenghao&repo=AndroidEasterEggs&theme=graywhite"/>
+</a>
+<a href="https://github.com/hushenghao/MediaStoreDemo">
+  <img align="center" alt="MediaStoreDemo" src="https://github-readme-stats.vercel.app/api/pin/?username=hushenghao&repo=MediaStoreDemo&theme=graywhite"/>
+</a>
 
+#### Connect with me:
 
+[![stats](https://github-readme-stats.vercel.app/api?username=hushenghao&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hushenghao&theme=graywhite)](https://git.io/streak-stats)
+<br/>
+[![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hushenghao&layout=compact&theme=graywhite&hide=JavaScript)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 #### Coding Activity
 
 <img src='https://wakatime.com/share/@Shenghao/ae3990cd-400b-4602-8b4b-c4346bfc6383.svg' style='background-color:#fff' />
-
-<!--
-<img src='https://wakatime.com/share/@Shenghao/8677d2d7-40ce-4251-9f49-72d1997119c2.svg' height='200'/>
 -->
 
 <!--
