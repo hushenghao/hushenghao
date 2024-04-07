@@ -23,22 +23,44 @@
 
 ### 🔗 Connect with me:
 
-[![Hu Shenghao's gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=hushenghao&theme=graywhite)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=hushenghao&theme=github-dark-blue" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=hushenghao" />
+    <img alt="Hu Shenghao's gitHub streak" src="https://github-readme-streak-stats.herokuapp.com?user=hushenghao" />
+  </picture>
+</a>
+<br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" alt="Hu Shenghao's github stats" src="https://github-readme-stats.vercel.app/api?username=hushenghao&show_icons=true&include_all_commits=true&theme=graywhite" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hushenghao&show_icons=true&include_all_commits=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hushenghao&show_icons=true&include_all_commits=true" />
+    <img align="top" alt="Hu Shenghao's github stats" src="https://github-readme-stats.vercel.app/api?username=hushenghao&show_icons=true&include_all_commits=true" />
+  </picture>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" alt="Hu Shenghao's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hushenghao&layout=compact&theme=graywhite&hide=JavaScript" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hushenghao&layout=compact&theme=github_dark&hide=JavaScript" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hushenghao&layout=compact&hide=JavaScript" />
+    <img align="top" alt="Hu Shenghao's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hushenghao&layout=compact&hide=JavaScript" />
+  </picture>
 </a>
 
 ### 🏆 Top Repositories
 
 <a href="https://github.com/hushenghao/AndroidEasterEggs">
-  <img align="top" alt="AndroidEasterEggs" src="https://github-readme-stats.vercel.app/api/pin/?username=hushenghao&repo=AndroidEasterEggs&theme=graywhite" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hushenghao&repo=AndroidEasterEggs&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hushenghao&repo=AndroidEasterEggs" />
+    <img align="top" alt="AndroidEasterEggs" src="https://github-readme-stats.vercel.app/api/pin/?username=hushenghao&repo=AndroidEasterEggs" />
+  </picture>
 </a>
 <a href="https://github.com/hushenghao/MediaStoreDemo">
-  <img align="top" alt="MediaStoreDemo" src="https://github-readme-stats.vercel.app/api/pin/?username=hushenghao&repo=MediaStoreDemo&theme=graywhite" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hushenghao&repo=MediaStoreDemo&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hushenghao&repo=MediaStoreDemo" />
+    <img align="top" alt="MediaStoreDemo" src="https://github-readme-stats.vercel.app/api/pin/?username=hushenghao&repo=MediaStoreDemo" />
+  </picture>
 </a>
 
 <!--
