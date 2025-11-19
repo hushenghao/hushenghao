@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on **Nanjing, China**
 - 🌱 I’m currently learning **Rust, HarmonyOS**
 - 💬 Ask me about [here](https://github.com/hushenghao/hushenghao/issues)
-- 📫 How to reach me: **[dede.hu@qq.com](mailto:dede.hu@qq.com)**
 - 😄 Pronouns: **dede**
 - ⚡ Fun fact: ...
 
